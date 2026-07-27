@@ -99,15 +99,6 @@ nameste
 
 This repository is a part of my Java learning journey. I will continue adding more programs covering:
 
-- Loops
-- Functions
-- Arrays
-- Strings
-- Object-Oriented Programming (OOP)
-- Collections
-- Exception Handling
-- File Handling
-
 ## 👨‍💻 Author
 
 **Nandkishore Suthar**
