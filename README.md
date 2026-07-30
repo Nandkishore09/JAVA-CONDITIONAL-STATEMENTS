@@ -1,4 +1,4 @@
-# ☕ Java Basics Practice
+# ☕ Java Basics Practice-
 
 This repository contains my Java practice programs while learning the fundamentals of Java programming. The goal of this repository is to strengthen my core programming concepts by solving simple problems and practicing syntax.
 
